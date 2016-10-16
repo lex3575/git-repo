@@ -1,0 +1,2 @@
+print("GoodBay")
+print("say GoodBay")
